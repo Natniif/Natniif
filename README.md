@@ -1,4 +1,5 @@
-Hi my name is Fintan Hardy I am currently studying chemical engineering at the university of manchester 
+Hi my name is Fintan Hardy I am currently studying chemical engineering at the university of manchester.
+
 I am currently working as part of the de visser group on a summer internship researching the optimised catalytic cycle of non-heme iron catalysts 
 
 <!---
