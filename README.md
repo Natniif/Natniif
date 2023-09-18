@@ -4,7 +4,7 @@ I am currently working as part of the de visser group on a summer internship res
 
 ## 📊 Some stats
 <div align="center">
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natniif&layout=compact&theme=tokyonight)
+<img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api/top-langs/?username=Natniif&layout=compact&langs_count=7&theme=transparent&exclude_repo=namd_analysis,vercel_repo"/>
 </div>
 
 <!---
