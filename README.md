@@ -14,9 +14,9 @@ Contact me at: fintan *[dot]* hardy *[at]* gmail *[dot]* com
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
-<div>
+<div style="display: flex; justify-content: space-between;">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natniif&theme=tokyonight" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natniif&hide_progress=false&hide=Jupyter+Notebook&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natniif&hide_progress=false&hide=Jupyter+Notebook&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 <!--
