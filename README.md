@@ -1,4 +1,4 @@
-Hi my name is Fintan :). 
+Hi my name is Fintan :)
 
 In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. Now I am looking for full time roles in Software Development. I love using Python to automate jobs, write deep neural nets and solve problems. I am also constantly learning about low level development in languages like C and C++.
 
@@ -12,11 +12,10 @@ Some of my favourite projects are:
 
 Contact me at: fintan *[dot]* hardy *[at]* gmail *[dot]* com
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  My GitHub Stats
  
 <div style="display: flex; justify-content: space-between;">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natniif&theme=tokyonight" alt="Gift's LangStat" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natniif&hide_progress=false&hide=Jupyter+Notebook&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 <!--
@@ -34,10 +33,9 @@ Contact me at: fintan *[dot]* hardy *[at]* gmail *[dot]* com
 -->
 
 
-<!-- ## Languages
+## Languages
 <div align=left>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natniif&hide_progress=false&hide=Jupyter+Notebook&theme=tokyonight)
   
 </div>
--->
