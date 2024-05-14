@@ -1,5 +1,17 @@
 # Hi 👋 my name is Fintan :)
 
+## Bio
+
+In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. Now I am looking for full time roles in Software Development. 
+
+Some of my favourite projects are: 
+- 💻 An interpreted language written in C following the "Crafting interpreters" e-book.
+- 🕸️ A collaborative front end website for a book store using Javascript and React.
+- 👨‍💻 A back end for the same book store website written with php using the laravel framework.
+- 🧐 A collection of all the problems and contests I have completed on the codeforces website using C++.
+
+**Contact me at: fintan *[dot]* hardy *[at]* gmail *[dot]* com**
+
 ## Technologies:
 <div>
    <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> &nbsp;
@@ -13,18 +25,6 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" /> &nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /> &nbsp;
 </div>
-
-# Bio
-
-In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. Now I am looking for full time roles in Software Development. 
-
-Some of my favourite projects are: 
-- 💻 An interpreted language written in C following the "Crafting interpreters" e-book.
-- 🕸️ A collaborative front end website for a book store using Javascript and React.
-- 👨‍💻 A back end for the same book store website written with php using the laravel framework.
-- 🧐 A collection of all the problems and contests I have completed on the codeforces website using C++.
-
-**Contact me at: fintan *[dot]* hardy *[at]* gmail *[dot]* com**
 
  ##  My GitHub Stats
  
