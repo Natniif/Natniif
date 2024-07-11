@@ -2,7 +2,7 @@
 
 ## Bio
 
-In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. Now I am looking for full time roles in Software Development. 
+In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. 
 
 Some of my favourite projects are: 
 - 💻 An interpreted language written in C following the "Crafting interpreters" e-book.
