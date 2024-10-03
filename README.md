@@ -1,6 +1,10 @@
+<!--
+
 # Hi 👋 my name is Fintan :)
 
 ## Bio
+I am a PhD student at Imperial College london studying AI applications in Material Science
+
 
 In 2023 I graduated from the University of Manchester with an MEng in Chemical Engineering. 
 
@@ -32,7 +36,6 @@ Some of my favourite projects are:
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natniif&theme=tokyonight" alt="Gift's LangStat" />
 </div>
 
-<!--
 ## Languages
 <div align=left>
   
